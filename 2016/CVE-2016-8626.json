@@ -895,7 +895,7 @@
 				{
 					"category": "general",
 					"text": "A flaw was found in Red Hat Ceph before 0.94.9-8. The way Ceph Object Gateway handles POST object requests permits an authenticated attacker to launch a denial of service attack by sending null or specially crafted POST object requests.",
-					"title": "Vulnerability description"
+					"title": "CVE description"
 				}
 			],
 			"product_status": {
